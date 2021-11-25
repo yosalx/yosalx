@@ -5,9 +5,9 @@
 ### Connect with me:
 
 [<img align="left" alt="yos1523" width="22px" src="https://img.icons8.com/external-kmg-design-outline-color-kmg-design/32/000000/external-web-web-hosting-kmg-design-outline-color-kmg-design.png" />][website]
-[<img align="left" alt="yos1523 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="yoseph alexander | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="yosalx | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="yos1523 | Twitter" width="22px" src="https://img.icons8.com/color/48/000000/twitter--v2.png" />][twitter]
+[<img align="left" alt="yoseph alexander | LinkedIn" width="22px" src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-linkedin-social-media-justicon-flat-justicon.png" />][linkedin]
+[<img align="left" alt="yosalx | Instagram" width="22px" src="https://img.icons8.com/color/64/000000/instagram-new--v2.png"/>][instagram]
 
 <br />
 
