@@ -19,8 +19,6 @@
 <br />
 <br />
 
----
-
 [website]: https://codepen.io/yos1523
 [twitter]: https://twitter.com/yos1523
 [instagram]: https://www.instagram.com/yosalx/
