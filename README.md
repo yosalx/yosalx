@@ -10,7 +10,4 @@ I'm an Undergraduate Student majoring in Information Technology at Institut Tekn
 <br />
 <br />
 
-[website]: https://codepen.io/yos1523
-[twitter]: https://twitter.com/yos1523
-[instagram]: https://www.instagram.com/yosalx/
 [linkedin]: https://www.linkedin.com/in/yosephalexander/
