@@ -1,5 +1,4 @@
 ### ⚡ Hi there, I'm Yoseph Alexander Siregar
-I'm an Undergraduate Student majoring in Information Technology at Institut Teknologi Bandung
 
 ### Connect with me:
 
